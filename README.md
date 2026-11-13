@@ -14,7 +14,8 @@
   <a href="#-arquitetura-e-tecnologias">Tecnologias</a> •
   <a href="#-roadmap-de-desenvolvimento">Roadmap</a> •
   <a href="#-estrutura-do-projeto">Estrutura</a> •
-  <a href="#-como-executar">Execução</a>
+  <a href="#-como-executar">Execução</a> •
+  <a href="#-aprendizados">Aprendizados</a>
 </p>
 
 ---
@@ -35,9 +36,9 @@ As próximas versões estão planejadas para explorar diferentes abordagens de d
 
 ## 🖼️ Demonstração Visual
 
-<p align="center">
-  <img src="COLE_AQUI_O_LINK_DA_SCREENSHOT_OU_GIF" alt="Demonstração do Jogo da Memória" width="100%">
-</p>
+Acesse a versão online do projeto:
+
+[**Jogo da Memória — Versão 1.0**](https://projeto-jogo-da-memoria-v10.vercel.app/)
 
 ---
 
@@ -57,8 +58,6 @@ As próximas versões estão planejadas para explorar diferentes abordagens de d
 ## 🛠️ Arquitetura e Tecnologias
 
 ### Versão 1.0 — JavaScript Vanilla
-
-<badge color="success">Implementada</badge>
 
 **Tecnologias utilizadas:**
 
@@ -128,14 +127,14 @@ Evolução planejada:
 
 ## 📊 Comparativo das Arquiteturas
 
-| Critério                    | Versão 1.0       | Versão 2.0                            | Versão 3.0             |
-| :-------------------------- | :--------------- | :------------------------------------ | :--------------------- |
-| **Tecnologias**             | HTML, CSS e JS   | jQuery e Bootstrap                    | React, Vite e Tailwind |
-| **Paradigma**               | Imperativo       | Imperativo com abstrações             | Declarativo            |
-| **Manipulação do DOM**      | Web APIs         | jQuery                                | React                  |
-| **Gerenciamento de estado** | JavaScript puro  | JavaScript e jQuery                   | React Hooks            |
-| **Componentização**         | Estrutura manual | Componentes e elementos reutilizáveis | Componentes React      |
-| **Estilização**             | CSS3 puro        | Bootstrap + CSS3                      | Tailwind CSS           |
+| Critério                    | Versão 1.0       | Versão 2.0                | Versão 3.0             |
+| :-------------------------- | :--------------- | :------------------------ | :--------------------- |
+| **Tecnologias**             | HTML, CSS e JS   | jQuery e Bootstrap        | React, Vite e Tailwind |
+| **Paradigma**               | Imperativo       | Imperativo com abstrações | Declarativo            |
+| **Manipulação do DOM**      | Web APIs         | jQuery                    | React                  |
+| **Gerenciamento de estado** | JavaScript puro  | JavaScript e jQuery       | React Hooks            |
+| **Componentização**         | Estrutura manual | Elementos reutilizáveis   | Componentes React      |
+| **Estilização**             | CSS3 puro        | Bootstrap + CSS3          | Tailwind CSS           |
 
 ---
 
