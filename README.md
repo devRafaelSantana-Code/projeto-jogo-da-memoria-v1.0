@@ -1,8 +1,22 @@
 # 🧠 Jogo da Memória — O Desafio das Três Stacks
 
-\<p align="center"> \<img src="[https://img.shields.io/badge/Vers%C3%A3o-1.0-2EA44F?style=for-the-badge](https://img.shields.io/badge/Vers%C3%A3o-1.0-2EA44F?style=for-the-badge)" alt="Versão 1.0"> \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" alt="HTML5"> \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS3"> \<img src="[https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" alt="JavaScript"> \</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vers%C3%A3o-1.0-2EA44F?style=for-the-badge" alt="Versão 1.0">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+</p>
 
-\<p align="center"> \<a href="#-sobre-o-projeto">\<img src="[https://img.shields.io/badge/Sobre-263238?style=for-the-badge](https://img.shields.io/badge/Sobre-263238?style=for-the-badge)" alt="Sobre">\</a> \<a href="#-demonstração-visual">\<img src="[https://img.shields.io/badge/Demonstra%C3%A7%C3%A3o-37474F?style=for-the-badge](https://img.shields.io/badge/Demonstra%C3%A7%C3%A3o-37474F?style=for-the-badge)" alt="Demonstração">\</a> \<a href="#-funcionalidades">\<img src="[https://img.shields.io/badge/Funcionalidades-263238?style=for-the-badge](https://img.shields.io/badge/Funcionalidades-263238?style=for-the-badge)" alt="Funcionalidades">\</a> \<a href="#-arquitetura-e-tecnologias">\<img src="[https://img.shields.io/badge/Tecnologias-37474F?style=for-the-badge](https://img.shields.io/badge/Tecnologias-37474F?style=for-the-badge)" alt="Tecnologias">\</a> \<a href="#-roadmap-de-desenvolvimento">\<img src="[https://img.shields.io/badge/Roadmap-263238?style=for-the-badge](https://img.shields.io/badge/Roadmap-263238?style=for-the-badge)" alt="Roadmap">\</a> \<a href="#-estrutura-do-projeto">\<img src="[https://img.shields.io/badge/Estrutura-37474F?style=for-the-badge](https://img.shields.io/badge/Estrutura-37474F?style=for-the-badge)" alt="Estrutura">\</a> \<a href="#-como-executar">\<img src="[https://img.shields.io/badge/Execu%C3%A7%C3%A3o-263238?style=for-the-badge](https://img.shields.io/badge/Execu%C3%A7%C3%A3o-263238?style=for-the-badge)" alt="Execução">\</a> \<a href="#-aprendizados">\<img src="[https://img.shields.io/badge/Aprendizados-37474F?style=for-the-badge](https://img.shields.io/badge/Aprendizados-37474F?style=for-the-badge)" alt="Aprendizados">\</a> \</p>
+<p align="center">
+  <a href="#-sobre-o-projeto"><img src="https://img.shields.io/badge/Sobre-263238?style=for-the-badge" alt="Sobre"></a>
+  <a href="#-demonstração-visual"><img src="https://img.shields.io/badge/Demonstra%C3%A7%C3%A3o-37474F?style=for-the-badge" alt="Demonstração"></a>
+  <a href="#-funcionalidades"><img src="https://img.shields.io/badge/Funcionalidades-263238?style=for-the-badge" alt="Funcionalidades"></a>
+  <a href="#-arquitetura-e-tecnologias"><img src="https://img.shields.io/badge/Tecnologias-37474F?style=for-the-badge" alt="Tecnologias"></a>
+  <a href="#-roadmap-de-desenvolvimento"><img src="https://img.shields.io/badge/Roadmap-263238?style=for-the-badge" alt="Roadmap"></a>
+  <a href="#-estrutura-do-projeto"><img src="https://img.shields.io/badge/Estrutura-37474F?style=for-the-badge" alt="Estrutura"></a>
+  <a href="#-como-executar"><img src="https://img.shields.io/badge/Execu%C3%A7%C3%A3o-263238?style=for-the-badge" alt="Execução"></a>
+  <a href="#-aprendizados"><img src="https://img.shields.io/badge/Aprendizados-37474F?style=for-the-badge" alt="Aprendizados"></a>
+</p>
 
 ---
 
@@ -24,11 +38,11 @@ As próximas versões estão planejadas para explorar diferentes abordagens de d
 
 Acesse a versão online do projeto:
 
-\<p align="center">
-&#x20; \<a href="[https://projeto-jogo-da-memoria-v10.vercel.app/](https://projeto-jogo-da-memoria-v10.vercel.app/)">
-&#x20; \<img src="[https://img.shields.io/badge/Acessar_Jogo_da_Mem%C3%B3ria-2EA44F?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Acessar_Jogo_da_Mem%C3%B3ria-2EA44F?style=for-the-badge&logo=vercel&logoColor=white)" alt="Acessar Jogo da Memória — Versão 1.0">
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://projeto-jogo-da-memoria-v10.vercel.app/">
+    <img src="https://img.shields.io/badge/Acessar_Jogo_da_Mem%C3%B3ria-2EA44F?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Acessar Jogo da Memória — Versão 1.0">
+  </a>
+</p>
 
 ---
 
@@ -74,7 +88,7 @@ O projeto foi planejado em três versões independentes, cada uma explorando uma
 
 ### 1.0 — JavaScript Vanilla
 
-\<p> \<img src="[https://img.shields.io/badge/Implementada-2EA44F?style=flat-square](https://img.shields.io/badge/Implementada-2EA44F?style=flat-square)" alt="Implementada"> \</p>
+<p><img src="https://img.shields.io/badge/Implementada-2EA44F?style=flat-square" alt="Implementada"></p>
 
 **Stack:** HTML5 + CSS3 + JavaScript ES6+
 
@@ -86,7 +100,7 @@ O projeto foi planejado em três versões independentes, cada uma explorando uma
 
 ### 2.0 — jQuery + Bootstrap 5
 
-\<p> \<img src="[https://img.shields.io/badge/Implementada-2EA44F?style=flat-square](https://img.shields.io/badge/Implementada-2EA44F?style=flat-square)" alt="Implementada"> \</p>
+<p><img src="https://img.shields.io/badge/Implementada-2EA44F?style=flat-square" alt="Implementada"></p>
 
 **Stack:** HTML5 + CSS3 + jQuery + Bootstrap 5
 
@@ -99,7 +113,7 @@ O projeto foi planejado em três versões independentes, cada uma explorando uma
 
 ### 3.0 — React + Vite + Tailwind CSS
 
-\<p> \<img src="[https://img.shields.io/badge/Planejada-FFA726?style=flat-square](https://img.shields.io/badge/Planejada-FFA726?style=flat-square)" alt="Planejada"> \</p>
+<p><img src="https://img.shields.io/badge/Planejada-FFA726?style=flat-square" alt="Planejada"></p>
 
 **Stack:** React + Vite + Tailwind CSS
 
@@ -185,14 +199,14 @@ A evolução planejada para as versões 2.0 e 3.0 permitirá aprofundar esses co
 
 Estudante de Engenharia da Computação, com foco em desenvolvimento Full-Stack e Engenharia de Software.
 
-\<p align="left">
-&#x20; \<a href="[https://github.com/devRafaelSantana-Code](https://github.com/devRafaelSantana-Code)" target="\_blank">
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub">
-&#x20; \</a>
-\</p>
+<p align="left">
+  <a href="https://github.com/devRafaelSantana-Code" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
-\<p align="center">
-&#x20; Projeto desenvolvido para fins educacionais e para consolidação de conhecimentos em HTML5, CSS3, CSS Grid, Flexbox e desenvolvimento de interfaces responsivas.
-\</p>
+<p align="center">
+  Projeto desenvolvido para fins educacionais e para consolidação de conhecimentos em HTML5, CSS3, CSS Grid, Flexbox e desenvolvimento de interfaces responsivas.
+</p>
